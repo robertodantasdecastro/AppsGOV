@@ -1,0 +1,160 @@
+html, body, input {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.hidden {
+  display: none;
+}
+
+.invisible {
+  opacity: 0;
+}
+
+#flash-container {
+  min-height: 41px;
+}
+
+h2 {
+  font-size: 22px;
+  margin: 30px 0 15px;
+  font-weight: 300;
+  color: #555555;
+}
+
+table {
+  width: 100%;
+}
+
+.body.container {
+  max-width: 300px;
+  margin: 40px auto 0;
+}
+
+.login.header {
+  text-align: center;
+}
+
+.partnership .title {
+  color: #555555;
+  font-size: 12px;
+  margin-bottom: 3px;
+}
+
+.partnership:hover .invisible {
+  transition: opacity 0.5s linear;
+  opacity: 1;
+}
+
+.logos .and {
+  font-size: 12px;
+  vertical-align: middle;
+  margin: 0 10px;
+  color: #555555;
+}
+
+.logos {
+  font-size: 0;
+}
+
+.logos .logo {
+  max-width: 135px;
+  vertical-align: middle;
+}
+
+.logos .ieducativa.logo {
+  height: 22px;
+}
+
+#login-form {
+  box-sizing: border-box;
+  background: #fafafa;
+  padding: 15px;
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+}
+
+#login-form, #login-form form {
+  margin-bottom: 0;
+}
+
+#login-form label {
+  display: block;
+}
+
+.error, .notice {
+  text-align: center;
+  background-color: #F1D7D7;
+  color: #A95252;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.error {
+  background-color: #F1D7D7;
+  color: #A95252;
+}
+
+.notice {
+  background-color: #E6F4F9;
+  color: #4D8796;
+}
+
+
+.forget-password {
+  float: right;
+  line-height: 40px;
+  font-size: 12px;
+  font-weight: 300;
+  text-decoration: none;
+  color: rgba(0,0,0,.75);
+}
+
+.forget-password:hover {
+  text-decoration: underline;
+}
+
+input.submit, input#senha, input#login {
+  margin: 0px;
+  padding: 10px 22px;
+  border-radius: 5px;
+}
+
+input#senha, input#login {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid rgba(0,0,0,.2);
+  margin-bottom: 7px;
+}
+
+input.submit {
+  background-color: #3498db;
+  color: #FFF;
+  border: 1px solid #fff;
+  width: 100%;
+}
+
+input.submit:hover {
+  background-color: #2980b9;
+  color: #fff;
+  border-color: #fff;
+}
+
+#recaptcha_widget_div {
+  margin-bottom: 9px;
+}
+
+.external.links {
+  text-align: center;
+  margin-top: 22px;
+}
+
+.external.links a {
+  text-decoration: none;
+  color: #3498db;
+}
+
+.external.links a:hover {
+  text-decoration: underline;
+}

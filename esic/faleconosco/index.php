@@ -1,0 +1,30 @@
+<?php
+/**********************************************************************************
+ Sistema e-SIC Livre: sistema de acesso a informação baseado na lei de acesso.
+ 
+ Copyright (C) 2014 Prefeitura Municipal do Natal
+ 
+ Este programa é software livre; você pode redistribuí-lo e/ou
+ modificá-lo sob os termos da Licença GPL2.
+***********************************************************************************/
+
+require_once("../inc/security.php");
+include("../inc/topo.php"); 
+?>
+
+    <div id="pag_titulo">
+		<h1>FALE CONOSCO</h1>   
+   	</div>
+	
+	<div id="controle"> 
+	
+	<div id="ouvidoria">
+	<p><br><b>Ouvidoria<br>
+	<span>Faça sua Denúncia, Elogio ou Reclamação através dos seguintes contatos:</span></b><br>
+	<i>e-mail : ouvidoria@cachoeiradosindios.pb.gov.br<br>
+	Telefone : (83) 3553 <br>
+	Twitter: https://twitter.com/cachoeiradosindios</i><br></p>
+	</div>
+	</div>
+	
+<?php include("../inc/rodape.php"); ?>

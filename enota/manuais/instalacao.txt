@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="pt">
+<head>
+    <title>Documents</title>
+
+    <meta name="keywords" content="accessibility, portals, elearning, design">
+    <meta name="robots" content="all">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="generator" lang="en" content="OpenACS version 5.5.1">
+    <link rel="stylesheet" href="/resources/acs-templating/forms.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/acs-templating/lists.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/resources/dotlrn/dotlrn-toolbar.css" type="text/css" media="all">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/resources/acs-subsite/default-master.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/resources/theme-zen/css/main.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/resources/theme-zen/css/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="/resources/theme-zen/css/handheld.css" type="text/css" media="handheld">
+    <link rel="stylesheet" href="/resources/theme-zen/css/color/purple.css" type="text/css" media="screen">
+    <link rel="alternate stylesheet" href="/resources/theme-zen/css/highContrast.css" title="highContrast" type="text/css" media="all">
+    <link rel="alternate stylesheet" href="/resources/theme-zen/css/508.css" title="508" type="text/css" media="all">
+   <script type="text/javascript" src="/resources/theme-zen/js/styleswitcher.js"></script>
+
+   <script type="text/javascript" src="/resources/acs-subsite/core.js"></script>
+
+
+</head>
+<body>
+  
+
+
+<!-- Mudança de posição da logo -->
+<div id="wrapper">
+  <div id="header">
+    <div id="logo">
+      
+        <img  src="/resources/theme-zen/images/global/logo_psp.png" alt="SPB">
+		<a href="/">Portal do Software Público Brasileiro</a>
+      
+    </div>
+	<!-- Acessibilidade vai aqui -->
+	<div id="skiptocontent">
+	  <p>
+	    <a href="#content-wrapper" title="Pular para o Conteúdo Principal" accesskey="2">Pular para o Conteúdo Principal</a> | <a href="/theme-zen/accessibility" title="Página de Acessibilidade" accesskey="0">Acessibilidade</a>
+        
+          | <a href="/dotlrn/site-map" title="Ir para o Mapa do Site" accesskey="4">Mapa do site</a>
+        
+	  </p>
+	</div>
+    <div id="header-navigation">
+	  <!-- Inserting the new login-bar here -->
+	  
+ 		  <div class="user">Bem-vindo, Roberto Dantas de Castro 
+ 		  </div>
+ 		  <div class="form1">
+    	    
+      		  <img src="/resources/theme-zen/images/global/brasil.gif" alt="Bandeira do Brasil">
+      		  <a href="/acs-lang/" title="Clique aqui para alterar o idioma" acesskey="i">Português(Mudar)</a> |
+    		
+   			<img src="/resources/theme-zen/images/global/ico_search.gif"><a href="/search">Procurar</a> |
+   			<img src="/resources/theme-zen/images/global/ico_user.gif">
+   			<a href="/shared/whos-online"> 11 
+   			  membros conectados
+   			</a>  | 
+   			<a href="/register/logout" title="Efetuar logout do sistema Software Público Brasileiro">Sair</a>
+ 		
+ 		</div>
+    </div>
+
+    <div id="breadcrumbs">
+      <span class="screen-reader-only">Você está aqui</span>
+      <ul class="compact">
+        
+            <li>
+              
+                <a href="/">Portal do Software Público Brasileiro</a> :
+              
+            </li>
+          
+            <li>
+              
+                <a href="/dotlrn/">dotLRN</a> :
+              
+            </li>
+          
+            <li>
+              
+                <a href="/dotlrn/clubs/">Comunidades</a> :
+              
+            </li>
+          
+            <li>
+              
+                <a href="/dotlrn/clubs/enota/">e-Nota</a> :
+              
+            </li>
+          
+            <li>
+              
+                <a href="/dotlrn/clubs/enota/file-storage/">Documents</a> :
+              
+            </li>
+          
+            <li>
+              
+                Instalação
+              
+            </li>
+          
+      </ul>
+    </div>
+  </div> <!-- /header -->
+  <div id="main-navigation">
+    <div class="block-marker">Iniciar Navegação Principal</div>
+      <ul>
+<li><a href="/" title="Ir para Principal" accesskey="h">Principal</a></li>
+<li><a href="/dotlrn/" title="Ir para Meu Espaço" accesskey="h">Meu Espaço</a></li>
+<li><a href="/dotlrn/manage-memberships" title="Ir para Comunidades" accesskey="m">Comunidades</a></li>
+<li><a href="/dotlrn/control-panel" title="Ir para Painel de Controle" accesskey="p">Painel de Controle</a></li>
+<li id="main-navigation-active"><a href="/dotlrn/clubs/enota/" title="Ir para Comunidade" accesskey="c">Comunidade</a></li>
+</ul> 
+  </div>
+
+  
+    <div id="sub-navigation">
+      <div class="block-marker">Iniciar Subnavegação</div>
+      <ul>
+
+<li id="sub-navigation-active"><a href="/dotlrn/clubs/enota/?page_num=0" title="Ir para a página Página Inicial da Comunidade" accesskey="H">Página Inicial da Comunidade</a> </li>
+<li><a href="/dotlrn/clubs/enota/?page_num=1" title="Ir para a página Subgrupos" accesskey="">Subgrupos</a> </li>
+<li><a href="/dotlrn/clubs/enota/?page_num=2" title="Ir para a página Armazenagem de Arquivo" accesskey="F">Armazenagem de Arquivo</a> </li>
+<li><a href="/dotlrn/clubs/enota/?page_num=3" title="Ir para a página Wiki" accesskey="">Wiki</a> </li>
+<li><a href="/dotlrn/clubs/enota/?page_num=4" title="Ir para a página Calendário" accesskey="C">Calendário</a> </li>
+<li><a href="/dotlrn/clubs/enota/?page_num=5" title="Ir para a página Pessoas" accesskey="P">Pessoas</a> </li>
+</ul>
+
+    </div>
+  
+
+  <div id="content-wrapper">
+    <div class="block-marker">Iniciar Conteúdo Principal</div>
+    <div id="inner-wrapper"> 
+
+      
+	<!-- Improving the youarehere div to support pictures and logos -->
+	  
+	    <div id="youarehere" align="right">
+	      <div class="right">
+	        
+		    <img src="/dotlrn/clubs/enota//file-storage/download/?version_id=24238884">&nbsp;&nbsp;
+	          <div class="header-text" style="font-family: Arial, Helvetica, sans-serif; font-size: Normal; font-weight: bold; color: black;">
+	            
+	              e-Nota
+		        
+	          </div>
+	        
+	      </div>
+	    </div>
+	    <br/>
+	  
+        <div id="main">
+          <div id="main-content">
+            <div class="main-content-padding">
+      
+{Manual E-NOTA<p>1 - Pré-requisitos</p><p>1.1 - PHP<br>
+1.2 - Apache<br>
+1.3 - Mysql<br>
+1.4 - Sistemas Operacionais<br>
+1.5 - Browsers<br>
+1.6 - Bibliotecas</p><p>2 - Instruções de Instalação</p><p>2.1 - Estrutura<br>
+2.2 - Instalações Necessárias<br>
+2.3 - Configurações Connect<br><br><br>
+=====================================================<br><br><br>
+1.1 - PHP<br><br>
+    Versão PHP: 5.1.6<br>
+    Configurações do arquivo php.ini<br>
+        short_open_tag:    On<br>
+        register_globals: On<br>
+        upload_max_filesize: 8M<br>
+        Default timezone: America/Sao_Paulo<br>
+        magic_quotes_gpc: ON<br>
+        output_buffering: 4096<br>
+        error_reporting  =  E_ALL &amp; ~E_NOTICE<br>
+        display_errors = On</p><p>1.2 - Apache<br><br>
+    Versão Apache: 2.2.3<br>
+    Apache API Version: 20051115<br>
+    HTTP_ACCEPT_CHARSET: ISO-8859-1</p><p>1.3 - Mysql<br><br>
+    Mysql versão 5.0.77</p><p>1.4 - Sistemas Operacionais<br><br>
+    Linux<br>
+    Microsoft Windows(R)</p><p>1.5 - Browsers<br><br>
+    Recomendações:<br>
+        Firefox v 3.5 ou superior<br>
+        Chrome v 5.0 ou superior<br>
+        Internet Explorer v 7 ou superior</p><p>1.6 - Bibliotecas<br><br>
+    Lib GD for PHP5 bundled (2.0.28 compatible)</p><p>==================================================================</p><p>2 - Instruções de Instalação<br><br><br>
+2.1 - Estrutura de pastas<br><br>
+    Linux:<br>
+        /enota/site    - interface website para prestador e tomador de serviços<br>
+        /enota/sep    - interface para gestão da informação pelo fiscal tributário<br><br>
+    Windows:<br>
+        C:\enota\site    - interface website para prestador e tomador de serviços<br>
+        C:\enota\sep    - interface para gestão da informação pelo fiscal tributário</p><p>2.2 - Instalações Necessárias<br><br>
+    a) Instale o Apache (apache.org), PHP (php.net) e MySQL (mysql.com) de acordo com as versões exigidas acima.<br>
+    b) Importar arquivo *.sql da base modelo, recomendamos que utilize o PhpMyAdmin (www.phpmyadmin.net)<br>
+    c) Após a instalação do MySQL e importação da base modelo, criar usuário e senha para acesso a base criada.</p><p>2.3 - Configurações config.php<br><br>
+    Localização do arquivo: eiss/include/config.php<br>
+    Necessária adaptação das seguintes variáveis:<br>
+        - $Host : é o endereço da máquina servidor;<br>
+        - $Usuario : usuário de conexão ao banco MySQL;<br>
+        - $Senha : senha do usuário de conexão ao banco MySQL;<br>
+        - $Base : base selecionado na conexão.</p><p>www.portalpublico.com.br}</p>
+
+            </div> <!-- /main-content-padding -->
+          </div> <!-- /main-content -->
+        </div> <!-- /main -->
+      
+
+    </div> <!--  /inner-wrapper removal end-->
+  </div> <!-- /content-wrapper -->
+
+  <div id="footer">
+    <div class="block-marker">Iniciar Rodapé</div>
+    <div id="footer-icons">
+      <img src="http://www.w3.org/Icons/valid-html401-blue" 
+          alt="Valid HTML 4.01 Strict" height="32" width="88">
+
+      <a href="http://www.w3.org/WAI/WCAG1AA-Conformance" 
+            title="Explanation of Level Double-A Conformance">
+        <img height="32" width="88" 
+          src="http://www.w3.org/WAI/wcag1AA-blue"
+          alt="Level Double-A conformance icon, W3C-WAI Web Content Accessibility Guidelines 1.0">
+      </a>
+	</div>
+    <div id="footer-links">
+      <ul class="compact">
+        <li>Um Site <a href="http://dotlrn.org" title="Página do Projeto dotLRN"><img src="/resources/dotlrn/dotlrn.png" alt=".LRN"></a></li>
+        <li>Powered by <a href="http://openacs.org" title="Página do projeto OpenACS"><img src="/dotlrn/logo-bits.tcl?item_id=3746233" alt="OpenACS" height="32"></a></li>
+      </ul>
+    </div> <!-- /footer-links -->
+  </div> <!-- /footer -->
+</div> <!-- /wrapper -->
+
+  
+  <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-4007160-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+  </script>
+
+
+
+</body>
+</html>
